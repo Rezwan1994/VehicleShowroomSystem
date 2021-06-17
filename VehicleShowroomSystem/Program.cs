@@ -14,15 +14,6 @@ namespace VehicleShowroomSystem
        
         static void Main(string[] args)
         {
-            //DataContext Context = DataContext.getInstance();
-
-            //UserFacade userFacade = new UserFacade(Context);
-            //List<User> userlist = userFacade.GetAll();
-            //foreach(User item in userlist)
-            //{
-            //    Console.WriteLine(item.UserName);
-            //}
-            //Console.ReadKey();
             Service service = new Service();
             Console.WriteLine("*******************WELLCOME TO REZWAN'S SHOWROOM*********************");
             service.TakeUserChoice();
