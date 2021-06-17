@@ -1,0 +1,12 @@
+C:\Users\Piistech\source\repos\DemoProject\Demo.Entity\bin\Debug\Demo.Entity.dll
+C:\Users\Piistech\source\repos\DemoProject\Demo.Entity\bin\Debug\Demo.Entity.pdb
+C:\Users\Piistech\source\repos\DemoProject\Demo.Entity\obj\Debug\Demo.Entity.csprojAssemblyReference.cache
+C:\Users\Piistech\source\repos\DemoProject\Demo.Entity\obj\Debug\Demo.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Piistech\source\repos\DemoProject\Demo.Entity\obj\Debug\Demo.Entity.dll
+C:\Users\Piistech\source\repos\DemoProject\Demo.Entity\obj\Debug\Demo.Entity.pdb
+C:\Users\Piistech\source\repos\VehicleShowroomSystem\Demo.Entity\bin\Debug\Demo.Entity.dll
+C:\Users\Piistech\source\repos\VehicleShowroomSystem\Demo.Entity\bin\Debug\Demo.Entity.pdb
+C:\Users\Piistech\source\repos\VehicleShowroomSystem\Demo.Entity\obj\Debug\Demo.Entity.csprojAssemblyReference.cache
+C:\Users\Piistech\source\repos\VehicleShowroomSystem\Demo.Entity\obj\Debug\Demo.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Piistech\source\repos\VehicleShowroomSystem\Demo.Entity\obj\Debug\Demo.Entity.dll
+C:\Users\Piistech\source\repos\VehicleShowroomSystem\Demo.Entity\obj\Debug\Demo.Entity.pdb

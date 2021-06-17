@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+@Styles.Render("~/styles/loginindex")
+@Scripts.Render("~/scripts/loginindex")
+<script src="~/Content/Js/Login/login.js"></script>
+<div id="accesspanel">
+    <h1 id="litheader">TechnoVista</h1>
+    <div class="inset">
+        <p>
+            <input type="text" name="username" id="email" placeholder="Email address">
+            <label id="emailerror" class="label hidden red position-absolute">Email Address Required</label>
+            <label id="emailvalidationerror" class="label hidden red position-absolute">Email Address Not Valid</label>
+        </p>
+        <p>
+            <input type="password" name="password" id="password" placeholder="Access code">
+            <label id="passerror" class="label hidden red position-absolute">Password Required</label>
+        </p>
+     
+    </div>
+    <p class="p-container">
+        <button id="Submit">Submit</button>
+    </p>
+</div>
+
